@@ -11,3 +11,9 @@ a{
     p{
         background-color: lightpink;
     }
+    h4{
+        color: chartreuse;
+    }
+    h2{
+        color: darkred;
+    }
